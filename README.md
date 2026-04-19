@@ -54,4 +54,4 @@ Open `Excel Project Cleaning and Dashboard.xlsx`, then use slicers to filter and
 `bike-sales-excel-dashboard`
 
 ## Author
-Iman Tanveer
+Sameed Ur Rehman
